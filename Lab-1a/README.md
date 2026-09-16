@@ -49,3 +49,30 @@ I learned how virtualization allows an operating system such as Ubuntu Linux to 
 ## Reflection
 
 The main part of the lab was setting up the Ubuntu virtual machine and making sure the network and required services were working. This gave me a basic environment for completing the other Linux server labs.
+
+## Evidence / Screenshots
+
+### 1. VirtualBox Installation
+<img width="1919" height="1070" alt="image" src="https://github.com/user-attachments/assets/35d084be-1e50-4374-87bd-d98f23e8d67c" />
+
+
+### 2. Ubuntu ISO
+![Ubuntu ISO](02-ubuntu-iso.png)
+
+### 3. Virtual Machine Configuration
+![VM Configuration](03-vm-configuration.png)
+
+### 4. Ubuntu Running
+![Ubuntu](04-ubuntu-running.png)
+
+### 5. Network Configuration
+![NAT Network](05-network-nat.png)
+
+### 6. Guest Additions
+![Guest Additions](06-guest-additions.png)
+
+### 7. SSH Installation
+![SSH Installation](07-ssh-installation.png)
+
+### 8. SSH Status
+![SSH Status](08-ssh-status.png)
