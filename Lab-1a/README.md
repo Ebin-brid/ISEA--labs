@@ -57,10 +57,12 @@ The main part of the lab was setting up the Ubuntu virtual machine and making su
 
 
 ### 2. Ubuntu ISO
-![Ubuntu ISO](02-ubuntu-iso.png)
+![Uploading image.png…]()
+
 
 ### 3. Virtual Machine Configuration
-![VM Configuration](03-vm-configuration.png)
+<img width="764" height="879" alt="image" src="https://github.com/user-attachments/assets/69df9370-cc0b-41a7-a783-ea4705713602" />
+
 
 ### 4. Ubuntu Running
 ![Ubuntu](04-ubuntu-running.png)
