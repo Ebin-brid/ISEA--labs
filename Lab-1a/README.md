@@ -74,6 +74,8 @@ Understand directory structure (`/etc`, `/var`, `/home`).
 <img width="1082" height="588" alt="image" src="https://github.com/user-attachments/assets/a80dc237-f316-40fc-845c-34c5cfa8d450" />
 
  Use `man` to explore Linux manual pages.
- ![Uploading image.png…]()
+ <img width="955" height="802" alt="image" src="https://github.com/user-attachments/assets/940c7067-38b8-42bc-8aa8-5e362c4e621c" />
+ 
+
  
 
