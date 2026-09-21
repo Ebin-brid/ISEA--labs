@@ -17,3 +17,4 @@
 
 ![Cron job output](screenshots/azure_5.png)
 *Cron runs the script every minute; cron.log shows the timestamps.*
+![Creating hello.sh in nano](screenshots/azure_2.png)
