@@ -57,24 +57,23 @@ The main part of the lab was setting up the Ubuntu virtual machine and making su
 
 
 ### 2. Ubuntu ISO
-![Uploading image.png…]()
+<img width="1282" height="878" alt="image" src="https://github.com/user-attachments/assets/210d989c-1fe2-4a63-a016-5ac238185316" />
+<img width="890" height="109" alt="image" src="https://github.com/user-attachments/assets/6ab7ea60-e131-414d-94a8-8084e7bae515" />
+<img width="685" height="59" alt="image" src="https://github.com/user-attachments/assets/357bb3aa-0834-44b6-98b4-4576e9f1bdb8" />
+
+
 
 
 ### 3. Virtual Machine Configuration
 <img width="764" height="879" alt="image" src="https://github.com/user-attachments/assets/69df9370-cc0b-41a7-a783-ea4705713602" />
 
+##4.Familiarity with Ubuntu Linux – Basic command line navigation and utilities
+<img width="826" height="403" alt="image" src="https://github.com/user-attachments/assets/6c6eb51e-5c18-4222-81aa-f574b660ffb1" />
 
-### 4. Ubuntu Running
-![Ubuntu](04-ubuntu-running.png)
+Understand directory structure (`/etc`, `/var`, `/home`).
+<img width="1082" height="588" alt="image" src="https://github.com/user-attachments/assets/a80dc237-f316-40fc-845c-34c5cfa8d450" />
 
-### 5. Network Configuration
-![NAT Network](05-network-nat.png)
+ Use `man` to explore Linux manual pages.
+ ![Uploading image.png…]()
+ 
 
-### 6. Guest Additions
-![Guest Additions](06-guest-additions.png)
-
-### 7. SSH Installation
-![SSH Installation](07-ssh-installation.png)
-
-### 8. SSH Status
-![SSH Status](08-ssh-status.png)
