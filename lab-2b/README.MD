@@ -6,12 +6,14 @@
 
 ##Packages updated over SSH; VM runs Ubuntu 24.04.5 LTS.
 
-##Creating the script
+![Creating hello.sh in nano](screenshots/azure_2.png)
+*Creating the script.*
 
-##Script with echo, if, for and while
+![Running hello.sh with bash](screenshots/azure_3.png)
+*The script uses echo, if, for and while.*
 
+![Making the script executable](screenshots/azure_4.png)
+*chmod +x lets me run it directly with ./hello.sh.*
 
-##Making it executable and running it directly.
-
-##Cron running the script every minute
-
+![Cron job output](screenshots/azure_5.png)
+*Cron runs the script every minute; cron.log shows the timestamps.*
