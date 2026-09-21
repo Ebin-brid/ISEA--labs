@@ -2,3 +2,4 @@
 ![Azure](azure.png)
 
 ## SSH keypair and firewall settings
+![Azure](port 22 ssh.png)
