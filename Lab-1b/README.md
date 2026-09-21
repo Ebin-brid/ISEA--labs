@@ -7,6 +7,9 @@ Day 1b
 ## ssh running
 <img width="878" height="522" alt="image" src="https://github.com/user-attachments/assets/8764fd90-6ccb-4411-8ed1-436d42d42440" />
 
+##APACE RUNNING
+![Uploading image.png…]()
+
 ## ssh stopped and running again
 <img width="837" height="484" alt="image" src="https://github.com/user-attachments/assets/5977d49e-68e7-4426-96aa-04175cf8f20c" />
 
