@@ -6,6 +6,7 @@
 
 ##Packages updated over SSH; VM runs Ubuntu 24.04.5 LTS.
 
+## Day 2b: Bash Coding
 
 ![Creating hello.sh in nano](azure_2.png)
 *Creating the script.*
@@ -18,3 +19,4 @@
 
 ![Cron job output](azure_5.png)
 *Cron runs the script every minute; cron.log shows the timestamps.*
+
